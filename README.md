@@ -154,7 +154,7 @@ _Output screen that displays the prediction (e.g., “Will Default”) along wit
 ---
 
 ### 📈 Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)  
+![Power BI Dashboard](images/power_bi_dashboard.png)  
 _Interactive Power BI dashboard built from the cleaned dataset, showing trends, default ratios, and loan statistics._
 
 
