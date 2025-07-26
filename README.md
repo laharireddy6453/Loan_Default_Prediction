@@ -141,14 +141,22 @@ _Evaluation of Random Forest model's prediction accuracy._
 _Final model's confusion matrix using XGBoost classifier._
 
 ---
+### 🖼️ UI Screen 1
 ![UI Screen 1](images/ui_screen_1.png)  
 _Streamlit form where users enter loan application details such as amount, income, FICO score, and purpose._
 
+---
+
+### 📊 UI Screen 2
 ![UI Screen 2](images/ui_screen_2.png)  
 _Output screen that displays the prediction (e.g., “Will Default”) along with model-selected probability scores._
 
+---
+
+### 📈 Power BI Dashboard
 ![Power BI Dashboard](images/powerbi_dashboard.png)  
 _Interactive Power BI dashboard built from the cleaned dataset, showing trends, default ratios, and loan statistics._
+
 
 
 ## 📚 Future Enhancements
